@@ -25,5 +25,5 @@ Algorithm to solve [Boo!](https://play.google.com/store/apps/details?id=air.com.
 
 
 # Diagram
-
+For those who want to modify my codes.
 ![diagram1](/example/diagram1.jpg)
